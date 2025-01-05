@@ -2,26 +2,26 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fff8e1;
+    background-color: #e7f0f2;
 }
 header {
     text-align: center;
     padding: 20px;
-    background-color: #ffcc80;
+    background-color: #cbccd4;
     color: #5d4037;
 }
 nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    background-color: #5d4037;
+    background-color: #d2d7ec;
     padding: 10px;
 }
 nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 main {
