@@ -8,7 +8,7 @@ header {
     text-align: center;
     padding: 20px;
     background-color: #e7e8f0;
-    color: #5d4037;
+    color: #83a9e6;
 }
 nav ul {
     display: flex;
@@ -28,14 +28,14 @@ main {
     padding: 20px;
 }
 .product {
-    background-color: #1c9cff;
+    background-color: #c3d2dd;
     margin: 15px 0;
     padding: 15px;
     border-radius: 10px;
 }
 button {
-    background-color: #25056e;
-    color: rgb(140, 109, 220);
+    background-color: #b9a6e4;
+    color: rgb(159, 142, 204);
     border: none;
     padding: 10px 15px;
     cursor: pointer;
@@ -48,7 +48,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #6eb8e9;
-    color: rgb(182, 146, 232);
+    color: rgb(95, 141, 221);
     position: fixed;
     bottom: 0;
     width: 100%;
