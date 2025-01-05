@@ -2,19 +2,19 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e7f0f2;
+    background-color: #89e3f7;
 }
 header {
     text-align: center;
     padding: 20px;
-    background-color: #cbccd4;
+    background-color: #5a6196;
     color: #5d4037;
 }
 nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    background-color: #d2d7ec;
+    background-color: #747fa9;
     padding: 10px;
 }
 nav ul li {
@@ -35,7 +35,7 @@ main {
 }
 button {
     background-color: #25056e;
-    color: white;
+    color: rgb(140, 109, 220);
     border: none;
     padding: 10px 15px;
     cursor: pointer;
@@ -48,7 +48,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #6eb8e9;
-    color: white;
+    color: rgb(182, 146, 232);
     position: fixed;
     bottom: 0;
     width: 100%;
