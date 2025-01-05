@@ -1,54 +1,67 @@
+/* General Body Styling */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eefafc;
+    background-color: #e3f2fd; /* Light blue background */
 }
+
+/* Header Styling */
 header {
     text-align: center;
     padding: 20px;
-    background-color: #ea72e2;
-    color: #60ddff;
+    background-color: #42a5f5; /* Medium blue */
+    color: #ffffff; /* White text */
 }
+
+/* Navigation Bar */
 nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    background-color: #f9c9fc;
+    background-color: #1565c0; /* Dark blue */
     padding: 10px;
 }
 nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: rgb(0, 0, 0);
+    color: white;
     text-decoration: none;
+    font-weight: bold;
 }
+
+/* Main Content Styling */
 main {
     padding: 20px;
 }
+
+/* Product Section */
 .product {
-    background-color: #c3d2dd;
+    background-color: #bbdefb; /* Pale blue */
     margin: 15px 0;
     padding: 15px;
     border-radius: 10px;
+    border: 1px solid #90caf9; /* Light border */
 }
 button {
-    background-color: #b9a6e4;
-    color: rgb(159, 142, 204);
+    background-color: #1e88e5; /* Button blue */
+    color: white;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
     border-radius: 5px;
 }
 button:hover {
-    background-color: #dea3e8;
+    background-color: #1565c0; /* Darker blue on hover */
 }
+
+/* Footer Styling */
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #be98d2;
-    color: rgb(55, 51, 56);
+    background-color: #1565c0; /* Dark blue */
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
