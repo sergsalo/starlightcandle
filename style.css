@@ -8,13 +8,13 @@ header {
     text-align: center;
     padding: 20px;
     background-color: #e7e8f0;
-    color: #83a9e6;
+    color: #aad7e4;
 }
 nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    background-color: #747fa9;
+    background-color: #f9c9fc;
     padding: 10px;
 }
 nav ul li {
@@ -42,13 +42,13 @@ button {
     border-radius: 5px;
 }
 button:hover {
-    background-color: #1c058b;
+    background-color: #dea3e8;
 }
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #6eb8e9;
-    color: rgb(95, 141, 221);
+    background-color: #be98d2;
+    color: rgb(55, 51, 56);
     position: fixed;
     bottom: 0;
     width: 100%;
